@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/alex/projects/boletines-etl/src/tasks'
+let g:netrw_dirhist_2='/home/alex/snap/exercism/5/exercism/python/hello-world'
+let g:netrw_dirhist_3='/home/alex/snap/exercism/5/exercism/javascript/hello-world'

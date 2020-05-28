@@ -1,0 +1,21 @@
+- create:
+    - ~/downloads
+    - ~/.vim/undo-history
+
+- defaults:
+    link:
+      create: true
+      relink: true
+
+- link:
+    ~/.bash:
+    ~/.bash_profile:
+    ~/.bashrc:
+    ~/.dotfiles: ''
+    ~/.gitignore_global:
+    ~/.shell:
+    ~/.tmux.conf:
+    ~/.config/nvim: nvim
+    ~/.config/vifm: vifm
+
+- clean: ['~', '~/.config']

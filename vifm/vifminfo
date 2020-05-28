@@ -1,0 +1,606 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/alex/
+	..
+1588147835
+'b
+	/home/jancho/bin/
+	..
+1590685149
+'h
+	/home/jancho/
+	..
+1590685149
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/alex/projects/boletines-etl/src
+	lib
+1
+d/home/alex/projects/boletines-etl/src/lib
+	boe.py
+2
+d/home/alex/projects/boletines-etl/src/tasks
+	..
+0
+d/home/alex/projects/boletines-etl/src
+	lib
+1
+d/home/alex/projects/boletines-etl/src/lib
+	boe.py
+2
+d/home/alex/projects/boletines-etl/src
+	pipelines
+2
+d/home/alex/projects/boletines-etl/src/pipelines
+	fetch_n_process_day_disposals.py
+2
+d/home/alex/projects/boletines-etl/src
+	tasks
+3
+d/home/alex/projects/boletines-etl/src/tasks
+	..
+0
+d/home/alex/projects/boletines-etl/src
+	tasks
+3
+d/home/alex/projects/boletines-etl/src/tasks
+	fetch_boe_diary.py
+5
+d/home/alex/projects/boletines-etl/src/lib
+	boe.py
+2
+d/home/alex/projects/boletines-etl/src
+	params
+2
+d/home/alex/projects/boletines-etl/src/params
+	..
+0
+d/home/alex/projects/boletines-etl/src/lib
+	boe.py
+2
+d/home/alex/projects/boletines-etl/src
+	params
+2
+d/home/alex/projects/boletines-etl/src/params
+	global.py
+2
+d/home/alex/projects/boletines-etl/src/tasks
+	process_boe_diary.py
+9
+d/home/alex/projects/boletines-etl/src/lib
+	boe_diary_processing.py
+4
+d/home/alex/projects/boletines-etl/src
+	pipelines
+3
+d/home/alex/projects/boletines-etl/src/pipelines
+	fetch_n_process_day_disposals.py
+2
+d/home/alex/projects/boletines-etl/src
+	tasks
+4
+d/home/alex/projects/boletines-etl/src/tasks
+	fetch_boe_diary.py
+6
+d/home/alex/projects/boletines-etl/src
+	lib
+1
+d/home/alex/projects/boletines-etl/src/lib
+	helpers.py
+5
+d/home/alex/projects/boletines-etl/src
+	pipelines
+3
+d/home/alex/projects/boletines-etl/src/pipelines
+	fetch_n_process_day_disposals.py
+2
+d/home/alex/projects/boletines-etl/src
+	tasks
+4
+d/home/alex/projects/boletines-etl/src/tasks
+	create_disposal_entry.py
+3
+d/home/alex/projects/boletines-etl/src/lib
+	helpers.py
+5
+d/home/alex/projects/boletines-etl/src
+	tasks
+4
+d/home/alex/projects/boletines-etl/src/tasks
+	fetch_boe_diary_entry.py
+4
+d/home/alex/projects/boletines-etl/src/lib
+	helpers.py
+5
+d/home/alex/projects/boletines-etl/src
+	pipelines
+3
+d/home/alex/projects/boletines-etl/src/pipelines
+	boe_pipeline.py
+2
+d/home/alex/projects/boletines-etl/src/lib
+	helpers.py
+5
+d/home/alex/projects/boletines-etl/src
+	tasks
+4
+d/home/alex/projects/boletines-etl/src/tasks
+	process_boe_diary_entry.py
+6
+d/home/alex/projects/boletines-etl/src
+	lib
+1
+d/home/alex/projects/boletines-etl/src/lib
+	boe_diary_entry_processing.py
+4
+d/home/alex/projects/boletines-etl/src
+	tasks
+4
+d/home/alex/projects/boletines-etl/src/tasks
+	process_boe_diary_entry.py
+6
+d/home/alex/projects/boletines-etl/src/lib
+	boe_diary_entry_processing.py
+4
+d/home/alex/projects/boletines-etl/src
+	lib
+1
+d/home/alex/projects/boletines-etl/src/lib
+	boe.py
+3
+d/home/alex/projects/boletines-etl/src
+	tasks
+4
+d/home/alex/projects/boletines-etl/src/tasks
+	save_boe_diary.py
+7
+d/home/alex/projects/boletines-etl/src
+	tasks
+4
+d/home/alex/projects/boletines-etl/src/tasks
+	process_boe_diary.py
+5
+d/home/alex/projects/boletines-etl/src
+	params
+2
+d/home/alex/projects/boletines-etl/src/params
+	global_params.py
+3
+d/home/alex/projects/boletines-etl/src/tasks
+	save_boe_diary_entry.py
+8
+d/home/alex/projects/boletines-etl/src
+	params
+2
+d/home/alex/projects/boletines-etl/src/params
+	global_params.py
+3
+d/home/alex/projects/boletines-etl
+	src
+2
+d/home/alex/projects/boletines-etl/src
+	params
+2
+d/home/alex/projects/boletines-etl/src/params
+	global_params.py
+4
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/assets/src/components
+	core
+1
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/assets/src/components/core
+	..
+0
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/assets/src/components
+	App.js
+1
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/assets/src
+	components
+2
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/assets
+	webpack.config.js
+7
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading
+	static
+4
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/static
+	close_reading
+1
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/static/close_reading
+	..
+0
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/static
+	close_reading
+1
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading
+	templates
+5
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/templates
+	close_reading
+1
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/templates/close_reading
+	close_reading.html
+1
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/templates
+	close_reading
+1
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading
+	templates
+5
+d/home/alex/projects/collaborative-platform/src/collaborative_platform/apps
+	close_reading
+3
+d/home/alex/projects/collaborative-platform/src/collaborative_platform
+	apps
+1
+d/home/alex/projects/collaborative-platform/src
+	collaborative_platform
+1
+d/home/alex/projects/collaborative-platform
+	src
+6
+d/home/alex/projects/playground/src
+	..
+0
+d/home/alex/projects/playground
+	public
+2
+d/home/alex/projects/playground/public
+	vendor
+3
+d/home/alex/projects/playground
+	public
+2
+d/home/alex/snap/exercism/5/exercism/python/hello-world
+	hello_world.py
+3
+d/home/alex/snap/exercism/5/exercism/python
+	two-fer
+2
+d/home/alex/snap/exercism/5/exercism/python/two-fer
+	two_fer_test.py
+4
+d/home/alex/snap/exercism/5/exercism/python/hello-world
+	hello_world.py
+3
+d/home/alex/snap/exercism/5/exercism/python
+	hello-world
+1
+d/home/alex/snap/exercism/5/exercism
+	javascript
+1
+d/home/alex/snap/exercism/5/exercism/javascript
+	hello-world
+1
+d/home/alex/snap/exercism/5/exercism/javascript/hello-world
+	hello-world.js
+4
+d/home/alex/snap/exercism/5/exercism/javascript
+	two-fer
+2
+d/home/alex/snap/exercism/5/exercism/javascript/two-fer
+	two-fer.spec.js
+7
+d/home/alex/snap/exercism/5/exercism/javascript
+	resistor-color
+2
+d/home/alex/snap/exercism/5/exercism/javascript/resistor-color
+	resistor-color.spec.js
+7
+d/home/alex/snap/exercism/5/exercism/javascript
+	resistor-color
+2
+d/home/alex/snap/exercism/5/exercism
+	javascript
+1
+d/home/alex/snap/exercism/5
+	exercism
+1
+d/home/alex/snap/exercism/5/exercism
+	python
+2
+d/home/alex/snap/exercism/5/exercism/python
+	pangram
+2
+d/home/alex/snap/exercism/5/exercism/python/pangram
+	pangram_test.py
+4
+d/home/alex/snap/exercism/5/exercism/python
+	robot-name
+3
+d/home/alex/snap/exercism/5/exercism/python/robot-name
+	robot_name_test.py
+4
+d/home/jancho
+	..
+0
+d
+
+# Right window history (oldest to newest):
+D/home/alex/projects/boeETL
+	..
+0
+D/home/alex/projects/boletines-front
+	node_modules
+2
+D/home/alex/projects/boletines-front/node_modules
+	spectre.css
+45
+D/home/alex/projects/boletines-front/node_modules/spectre.css
+	dist
+1
+D/home/alex/projects/boletines-front/node_modules/spectre.css/dist
+	spectre-icons.min.css
+4
+D/home/alex/projects/boletines-front/node_modules/spectre.css
+	src
+3
+D/home/alex/projects/boletines-front/node_modules/spectre.css/src
+	..
+0
+D/home/alex/projects/boletines-front/node_modules/spectre.css
+	src
+3
+D/home/alex/projects/boletines-front/node_modules
+	spectre.css
+45
+D/home/alex/projects/boletines-front
+	src
+3
+D/home/alex/projects/boletines-front/src
+	common
+4
+D/home/alex/projects/boletines-front/src/common
+	style
+3
+D/home/alex/projects/boletines-front/src/common/style
+	Lora-VariableFont_wght.ttf
+2
+D/home/alex/projects/boeDashboard/es
+	nodes
+1
+D/home/alex/projects/boeDashboard/es/nodes
+	..
+0
+D/home/alex/projects/boeDashboard/es
+	..
+0
+D/home/alex
+	projects
+11
+D/home/alex/projects
+	boeDashboard
+6
+D/home/alex/projects/boeDashboard
+	README.md
+6
+D/home/alex/projects
+	collaborative-platform
+8
+D/home/alex/projects/collaborative-platform
+	README.md
+10
+D/home/alex/projects
+	interactive_form
+25
+D/home/alex/projects/interactive_form
+	src
+3
+D/home/alex/projects/interactive_form/src
+	helpers
+3
+D/home/alex/projects/interactive_form
+	public
+2
+D/home/alex/projects/interactive_form/public
+	vendor
+3
+D/home/alex/projects/interactive_form
+	node_modules
+1
+D/home/alex/projects/interactive_form/node_modules
+	..
+0
+D/home/alex/projects/interactive_form
+	src
+3
+D/home/alex/projects/interactive_form/src
+	containers
+2
+D/home/alex/projects/interactive_form/src/containers
+	current_state.js
+1
+D/home/alex/projects/interactive_form/src
+	containers
+2
+D/home/alex/projects/interactive_form
+	src
+3
+D/home/alex/projects
+	boletines-front
+8
+D/home/alex/projects/boletines-front
+	src
+3
+D/home/alex/projects/boletines-front/src
+	common
+1
+D/home
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:mkdir common
+:mkdir style
+:touch theme.css
+:touch index.js
+:touch screen.js
+:mkdir current
+:!touch theme.css
+:! yarn add spectre.css
+:mkdir app-frame
+:! touch AppFrame.js
+:! touch index.js
+:!touch Header.js
+:!touch Footer.js
+:!touch header.module.css
+:!ls -a
+:!touch fonts.css
+:nmap
+::q
+:cd
+:cd .config/
+:split
+:vsplit
+:mkdir components
+:mkdir containers
+:common
+:!mkdir -p common/helpers
+:mkdir redux
+:mkdir screens
+:mkdir daily
+:mkdir boe
+:mkdir bau
+:mkdir about
+:mkdir styles
+:mkdir public
+:!touch retrieve_boe.py
+:touch __init__.py 
+:touch process_boe_entry.py
+:touch extract_topic.py
+:touch extract_dependencies.py
+:touch create_disposal_entry.py
+:touch index_entry.py
+:touch fetch_n_process_day_disposals.py
+:touch fetch_boe_diary_entry.py
+:touch wget_file.py
+:touch __init__.py
+:mkdir params
+:e global_params.py
+:tou
+:touch boe_diary_entry_processing.py
+:q
+:!nvim close_reading.html
+
+# Search history (oldest to newest):
+/expectre:
+/spectre
+
+# Prompt history (oldest to newest):
+pheader.js
+pskeleton.js
+pfooter.js
+pNote
+pNote.js
+pTextAreaControl
+pTextAreaControl.js
+pboeETL
+pboe-screen
+pbau-screen
+pabout-screen
+pcurrent-screen
+pSkeleton.js
+pcomponents_
+pcommon_
+pcurrent-screen_
+pskeleton_
+pboe-screen_
+pbau-screen_
+pabout-screen_
+pskeleton
+pfetch_boe_diary.py
+pglobal.py
+pfetch_boe_diar.py
+pprocess_boe_diary.py
+pboe_diary_processing.py
+pfetch_boe_diary_entries.py
+pfetch_boe_diary_entry.py
+pprocess_boe_diary_entry.py
+psave_boe_diary.py
+psave_boe_diary_entry.py
+pboe_pipeline.py
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/alex/.local/share/vifm/Trash/000_LoadingApp.js
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/alex/.local/share/vifm/Trash/000_vis
+	/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/vis_dashboard/assets/src/components/views/Note/vis
+t/home/alex/.local/share/vifm/Trash/000_style.css
+	/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/vis_dashboard/assets/src/components/views/Note/style.css
+t/home/alex/.local/share/vifm/Trash/000_nodes
+	/home/alex/projects/boeDashboard/es/nodes
+t/home/alex/.local/share/vifm/Trash/000_geoConstants
+	/home/alex/projects/boletines-front/src/common/geoConstants
+t/home/alex/.local/share/vifm/Trash/000_animations.css
+	/home/alex/projects/boletines-front/src/common/style/animations.css
+t/home/alex/.local/share/vifm/Trash/000_components.css
+	/home/alex/projects/boletines-front/src/common/style/components.css
+t/home/alex/.local/share/vifm/Trash/000_containers.css
+	/home/alex/projects/boletines-front/src/common/style/containers.css
+t/home/alex/.local/share/vifm/Trash/000_margins.css
+	/home/alex/projects/boletines-front/src/common/style/margins.css
+t/home/alex/.local/share/vifm/Trash/000_home
+	/home/alex/projects/boletines-front/src/home
+t/home/alex/.local/share/vifm/Trash/000_index.html
+	/home/alex/projects/boletines-front/statics/index.html
+t/home/alex/.local/share/vifm/Trash/000_common_
+	/home/alex/projects/boletines-front/src/common_
+t/home/alex/.local/share/vifm/Trash/000_components_
+	/home/alex/projects/boletines-front/src/components_
+t/home/alex/.local/share/vifm/Trash/000_current-screen_
+	/home/alex/projects/boletines-front/src/current-screen_
+t/home/alex/.local/share/vifm/Trash/000_about-screen_
+	/home/alex/projects/boletines-front/src/about-screen_
+t/home/alex/.local/share/vifm/Trash/000_bau-screen_
+	/home/alex/projects/boletines-front/src/bau-screen_
+t/home/alex/.local/share/vifm/Trash/000_boe-screen_
+	/home/alex/projects/boletines-front/src/boe-screen_
+t/home/alex/.local/share/vifm/Trash/000___mocks__
+	/home/alex/projects/boletines-front/__mocks__
+t/home/alex/.local/share/vifm/Trash/000_statics
+	/home/alex/projects/boletines-front/statics
+t/home/alex/.local/share/vifm/Trash/000_wget_file.py
+	/home/alex/projects/boletines-etl/src/tasks/wget_file.py
+t/home/alex/.local/share/vifm/Trash/000_index_entry.py
+	/home/alex/projects/boletines-etl/src/tasks/index_entry.py
+t/home/alex/.local/share/vifm/Trash/000_extract_dependencies.py
+	/home/alex/projects/boletines-etl/src/tasks/extract_dependencies.py
+t/home/alex/.local/share/vifm/Trash/000_create_disposal_entry.py
+	/home/alex/projects/boletines-etl/src/tasks/create_disposal_entry.py
+t/home/alex/.local/share/vifm/Trash/000_core
+	/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/assets/src/components/core
+t/home/alex/.local/share/vifm/Trash/000_ui
+	/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/assets/src/components/ui
+t/home/alex/.local/share/vifm/Trash/000_views
+	/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/assets/src/components/views
+t/home/alex/.local/share/vifm/Trash/000_LoadingApp.js
+	/home/alex/projects/collaborative-platform/src/collaborative_platform/apps/close_reading/assets/src/components/LoadingApp.js
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
