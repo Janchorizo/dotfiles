@@ -3,3 +3,5 @@ export PIP_REQUIRE_VIRTUALENV=true
 
 # golang installation
 export PATH=$PATH:/usr/local/go/bin
+
+export GOPATH=/home/jancho/golang
