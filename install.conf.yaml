@@ -15,7 +15,8 @@
     ~/.gitignore_global:
     ~/.shell:
     ~/.tmux.conf:
-    ~/.config/nvim: nvim
-    ~/.config/vifm: vifm
+    ~/.config/nvim: config/nvim
+    ~/.config/vifm: config/vifm
+    ~/.config/kglobalshortcutsrc: config/kglobalshortcutsrc
 
 - clean: ['~', '~/.config']
